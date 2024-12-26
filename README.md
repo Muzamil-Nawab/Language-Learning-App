@@ -1,7 +1,7 @@
 # Language_Learning_App
 In this app you can learn "Spanish Language" easily. This app is very user friendly and everyone can use easily.
 <br>
-# Key Features:
+# <b> Features:
 In this app you can easily:
 <ul></ul>
 <li> Add your Lesson which one you want. </li>

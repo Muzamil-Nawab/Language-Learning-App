@@ -5,8 +5,8 @@ In this app you can learn "Spanish Language" easily. This app is very user frien
 In this app you can easily:
 <ul></ul>
 <li> Add your Lesson which one you want. </li>
-<li> you can check your knowledge with the help quiz in this app. </li>
-<li> In this app you can check your knowledge with the 'MCQ'S' and give score yourself. </li>
+<li> you can check your knowledge with the help quiz. </li>
+<li> In this app you can check your knowledge with the help 'MCQ'S' and give score yourself. </li>
 <li> If you use this app then you can edit your Profile Name.</li>
 <li> In Quiz Screen you can check your knowledge. 
 </ul>

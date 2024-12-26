@@ -8,5 +8,5 @@ In this app you can easily:
 <li> you can check your knowledge with the help quiz in this app. </li>
 <li> In this app you can check your knowledge with the 'MCQ'S' and give score yourself. </li>
 <li> If you use this app then you can edit your Profile Name.</li>
-<li> In Quiz Screen you can check your knowledge. <li>
+<li> In Quiz Screen you can check your knowledge. 
 </ul>

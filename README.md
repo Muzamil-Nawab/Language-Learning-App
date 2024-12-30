@@ -1,4 +1,4 @@
-# Code_Alpha_Task Language_Learning_App
+# Language_Learning_App
 In this app you can learn "Spanish Language" easily. This app is very user friendly and everyone can use easily.
 <br>
 # Features: 
